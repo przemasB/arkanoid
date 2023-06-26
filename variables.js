@@ -2,7 +2,7 @@ var canvas = document.getElementById("myCanvas");
 var ctx = canvas.getContext("2d");  
 
 var score = 0;
-var lives = 69;
+var lives = 50;
 
 var x = canvas.width/2;
 var y = canvas.height-30;
